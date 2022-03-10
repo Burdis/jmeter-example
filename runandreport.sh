@@ -5,7 +5,7 @@ rm -rf report.csv
 rm -rf results
 
 
-#move into jmeter location before running tests (filepaths need to be changed per setup)
+#move into your jmeter /bin folder before running tests (filepaths need to be changed per setup)
 cd ../apache-jmeter-5.4.1/bin/
 
 #run JMeter and generate a report (filepaths need to be changed per setup)
