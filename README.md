@@ -1,6 +1,6 @@
 # jmeter-example
 
-# Requirements
+## Requirements
 
  - [JMeter, you will need to remember where this is installed for later](https://jmeter.apache.org/download_jmeter.cgi)
  - [npm/node](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
